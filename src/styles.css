@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  align-items: center;
+}
+
+.clockLabel {
+  margin: 5px;
+}
